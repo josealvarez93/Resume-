@@ -1,0 +1,17 @@
+{
+  "name": "page1",
+  "version": "1.0.1",
+  "description": "proyecto piloto",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm install express"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.6"
+  }
+}
