@@ -32,8 +32,8 @@ Crear, editar, eliminar y marcar tareas como completadas.
 Sincronizar la base de datos:
 Ejecuta el siguiente comando para crear las tablas en la base de datos:npm run sync-db
 Ejecutar el servidor:npm start
-Clonar el repositorio:git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+Clonar el repositorio:git clone https://github.com/josealvarez93/Resume-.git
+
 Instalar dependencias:npm install
 Configurar la base de datos:
 
