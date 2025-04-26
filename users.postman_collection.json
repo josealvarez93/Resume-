@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "be70d82c-0ec6-4699-b20f-fc446c8919e2",
+		"name": "users",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42479333"
+	},
+	"item": [
+		{
+			"name": "Crear usuario",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Actualizar usuario",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Visualizar usuarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Visualizar usuarios por rol",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar usuario",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

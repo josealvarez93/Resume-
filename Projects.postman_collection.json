@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "0946992a-42db-4fc6-b01a-8f6f81eb33f0",
+		"name": "Projects",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42479333"
+	},
+	"item": [
+		{
+			"name": "Crear proyecto",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Actualizar projecto",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Visualizar projectos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar projecto",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar por ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Asociar usuario",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Desasociar usuarios",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
